@@ -8,6 +8,10 @@ Example usage:
     ./ci/collect-repo-info.py './auxil/spicy-plugin'
 """
 
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 import argparse
 import copy
 import json

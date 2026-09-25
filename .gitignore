@@ -24,7 +24,6 @@ cmake-build-*
 
 # Visual Studio
 .vs/
-.vscode/
 out/
 CMakeSettings.json
 
@@ -36,3 +35,5 @@ CMakeSettings.json
 *.swo
 
 src/include
+config.bat
+node_modules
